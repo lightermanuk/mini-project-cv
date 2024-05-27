@@ -4,6 +4,22 @@
     background-color: #676767;
 }
 
+.ui-menu-color-home {
+    background-color: #e75788;
+}
+
+.ui-menu-color-resume {
+    background-color: #22b04d;
+}
+
+.ui-menu-color-contact {
+    background-color: #34e;
+}
+
+.ui-menu-color-download {
+    background-color: #06f2ff;
+}
+
 header {
     margin: 0;
 }
